@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aychlo-site.vercel.app/sitemap.xml
